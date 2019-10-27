@@ -115,26 +115,6 @@ Siamese Network 是指⽹络中包含两个或以上完全相同的⼦⽹络，�
 
 结合上面两个方面，句子相似度既要考虑到语义层面还要考虑到句子语序问题。
 
-![](images/Humi_6.png)
-
-T1:  My little boy loves baking cakes. 
-
-T2:  All girls like to bake cakes. 
-
-T3:  Girls like going to cake-bakes. 
-
-T4:  Some boys enjoy baking cakes. 
-
-T5:  When I was a boy I occasionally baked cakes. 
-
-T6:  This little baked cake is inedible.
-
-T7:  Skidding cars bake my cakes every time. 
-
-T8:  On the little hill it was baking hot and the boy was caked in mud.
-
-![](images/Humi_7.png)
-
 
 
 
